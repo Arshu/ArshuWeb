@@ -1,0 +1,19 @@
+{
+  "NAVList": [
+    {
+      "NavTitle": "Blog",
+      "NavUrl": "Blog/Main",
+      "NavActive": "",
+      "HaveSubMenu": false,
+      "SubNAVList": [],
+      "Process": false
+    },
+    {
+      "NavTitle": "About",
+      "NavUrl": "Index/About",
+      "NavActive": "",
+      "HaveSubMenu": false,
+      "SubNAVList": []
+    }
+  ]
+}

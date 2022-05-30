@@ -1,0 +1,13 @@
+{
+    "ReCreate" : false,    
+    "RemoteUrl" : "",    
+    "AllowAppShutdown" : false,    
+    "MaskConfigValue" : false,    
+    "ViewPathConfig" : 
+    {
+        "StartViewPath" : "/Index/Main",        
+        "LoginViewPath" : "/Account/Login",        
+        "LoginAfterViewPath" : "/Config/Menu",        
+        "ChangePasswordViewPath" : "/Account/ChangePassword"
+    }
+}
